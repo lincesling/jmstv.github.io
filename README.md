@@ -98,6 +98,9 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 
 ### M3U文件
+
+电视匣官方源故障，此代理即将作废，正在咕咕代码写最新代理，敬请期待~
+
 通过cloudflare workers代理出的电视匣源，适用任何播放器，因基于cloudflare workers代理，每天只有10w请求，如发现不能播放，说明请求已用光，等待第二天恢复即可。
 
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-CFW.m3u
