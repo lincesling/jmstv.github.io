@@ -164,8 +164,8 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 ## 鸣谢
 
-感谢[woodongwong](https://github.com/woodongwong)提供tvfix代理方案
+感谢 [woodongwong](https://github.com/woodongwong) 提供tvfix代理方案
 
-感谢[linsongze](https://github.com/linsongze)提供直播平台代理方案
+感谢 [linsongze](https://github.com/linsongze) 提供直播平台代理方案
 
-
+最后感谢 [我自己](https://t.me/Curly_Mouse) 提供PHP代理直播方案 
