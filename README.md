@@ -108,7 +108,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-VPS.m3u
 ### 更新日志
-> **2022.05.27**：电视匣官方源故障，此代理即将作废，正在咕咕代码写最新代理，敬请期待~~
+> **2022.05.27**：电视匣官方更换了key数组，代理中key数组失效，项目作者正在咕咕代码，敬请期待~~
 > 
 > **2022.05.26**：添加两套不同类型的代理源，节目源已套用CloudFlareCDN，如播放卡顿请挂代理观看。
 > 
@@ -164,7 +164,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 ## 鸣谢
 
-感谢 [woodongwong](https://github.com/woodongwong) 提供tvfix代理方案
+感谢 [woodongwong](https://github.com/woodongwong) 提供tvfix电视匣代理方案
 
 感谢 [linsongze](https://github.com/linsongze) 提供直播平台和YouTube代理方案
 
