@@ -94,12 +94,11 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 卷毛鼠通过各种程序或项目代理的电视直播源。代理亦可理解为转发的含义，因部分公开的电视直播受限于固定的播放环境，通过代理即可重新定义直播源体现形式，将各种有验证的动态的链接固定为单一的静态链接，方便大家观看。
 
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.26-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.27-brightgreen?style=for-the-badge)
 
 
 ### M3U文件
 
-电视匣官方源故障，此代理即将作废，正在咕咕代码写最新代理，敬请期待~
 
 通过cloudflare workers代理出的电视匣源，适用任何播放器，因基于cloudflare workers代理，每天只有10w请求，如发现不能播放，说明请求已用光，等待第二天恢复即可。
 
@@ -109,6 +108,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 > https://raw.githubusercontent.com/JMSTV/iptv/main/JMSTV-VPS.m3u
 ### 更新日志
+> **2022.05.27**：电视匣官方源故障，此代理即将作废，正在咕咕代码写最新代理，敬请期待~~
 > **2022.05.26**：添加两套不同类型的代理源，节目源已套用CloudFlareCDN，如播放卡顿请挂代理观看。
 > 
 
@@ -118,11 +118,26 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 
 
 ## **卷毛鼠代理直播平台源**
-咕咕咕~
 
+卷毛鼠基于Golang语言一套国内知名直播平台代理系统，实现重定向访问虎牙、斗鱼、Bilibili直播间M3U8/FLV直播流，将直播平台动态源转换为静态链接，方便在各种终端平台的播放器中直接播放。在原作者(原作者已跑路两年)代码基础上修复了部分错误，提高了代理的性能！更多直播平台将陆续添加。
 
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.27-brightgreen?style=for-the-badge)
 
+### 使用教程
 
+直播源表现格式：
+
+> https://live.52sf.ga/平台/ID
+>   * 虎牙=huya；斗鱼=douyu；B站=bilibili
+
+完整直播源举例：
+
+> https://live.52sf.ga/bilibili/23158556
+> 如果主播下播将无法观看哦~
+
+### 更新日志
+> **2022.05.27**：先写好内容，服务稍后上线，上线后会更新此GitHub。
+> 
 ---
 
 
