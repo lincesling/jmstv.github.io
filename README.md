@@ -98,7 +98,7 @@ JMSIPTV是卷毛鼠公益项目之一，主要以分享全球IPTV直播源为主
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.05.28-brightgreen?style=for-the-badge)
 
 
-### 电视匣代理
+### 电视匣Go代理
 
 
 通过cloudflare workers代理出的电视匣源，适用任何播放器，因基于cloudflare workers代理，每天只有10w请求，如发现不能播放，说明请求已用光，等待第二天恢复即可。
